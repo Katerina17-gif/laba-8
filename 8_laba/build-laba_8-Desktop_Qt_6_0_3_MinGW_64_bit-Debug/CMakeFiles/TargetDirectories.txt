@@ -1,0 +1,5 @@
+F:/C++_Qt/8_laba/build-laba_8-Desktop_Qt_6_0_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+F:/C++_Qt/8_laba/build-laba_8-Desktop_Qt_6_0_3_MinGW_64_bit-Debug/CMakeFiles/laba_8.dir
+F:/C++_Qt/8_laba/build-laba_8-Desktop_Qt_6_0_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+F:/C++_Qt/8_laba/build-laba_8-Desktop_Qt_6_0_3_MinGW_64_bit-Debug/CMakeFiles/laba_8_autogen_timestamp_deps.dir
+F:/C++_Qt/8_laba/build-laba_8-Desktop_Qt_6_0_3_MinGW_64_bit-Debug/CMakeFiles/laba_8_autogen.dir
